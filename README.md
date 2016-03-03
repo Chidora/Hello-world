@@ -1,2 +1,3 @@
 # Hello-world
-Just another repository
+Hi,
+Just my first gitup repo code 
